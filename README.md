@@ -1,4 +1,4 @@
-# FONTOS! EZ A PROGRAM CSAK A SZÓRAKOZÁS CSÉLJÁBÓL KÉSZÜLT, NE HASZNÁLD KOMOLY DOLGOKRA XDD
+# FONTOS! EZ A PROGRAM CSAK A SZÓRAKOZÁS CÉLJÁBÓL KÉSZÜLT, NE HASZNÁLD KOMOLY DOLGOKRA XDD
 ## Ez a program egy kezdő "fejlesztő" csinalta XD én(Mirki)
 # Amit tud:
 ## - Leltárazni tud txt fileba
