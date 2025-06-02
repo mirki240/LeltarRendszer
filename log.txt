@@ -1,0 +1,9 @@
+2025. 06. 02. 16:34:52: admin hozzáadta: Kuka
+2025. 06. 02. 16:34:57: admin hozzáadta: étel
+2025. 06. 02. 16:49:18: admin bejelentkezett
+2025. 06. 02. 18:29:54: admin bejelentkezett
+2025. 06. 02. 18:30:42: admin bejelentkezett
+2025. 06. 02. 18:35:14: admin bejelentkezett
+2025. 06. 02. 18:36:25: admin bejelentkezett
+2025. 06. 02. 18:37:04: admin hozzáadta: asdasdadas
+2025. 06. 02. 18:37:12: admin törölte: asdasdadas

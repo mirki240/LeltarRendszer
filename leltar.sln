@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeltarRendszer", "LeltarRendszer.csproj", "{1EED5ABA-CDE4-8B1F-2764-3F11CF06BA7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EED5ABA-CDE4-8B1F-2764-3F11CF06BA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EED5ABA-CDE4-8B1F-2764-3F11CF06BA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EED5ABA-CDE4-8B1F-2764-3F11CF06BA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EED5ABA-CDE4-8B1F-2764-3F11CF06BA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A729B678-FFEB-4A6D-B25A-333922391FE1}
+	EndGlobalSection
+EndGlobal

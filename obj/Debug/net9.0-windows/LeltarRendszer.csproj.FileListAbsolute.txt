@@ -1,0 +1,14 @@
+D:\bot-ezrpc\!C#\leltar\bin\Debug\net9.0-windows\LeltarRendszer.exe
+D:\bot-ezrpc\!C#\leltar\bin\Debug\net9.0-windows\LeltarRendszer.deps.json
+D:\bot-ezrpc\!C#\leltar\bin\Debug\net9.0-windows\LeltarRendszer.runtimeconfig.json
+D:\bot-ezrpc\!C#\leltar\bin\Debug\net9.0-windows\LeltarRendszer.dll
+D:\bot-ezrpc\!C#\leltar\bin\Debug\net9.0-windows\LeltarRendszer.pdb
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.GeneratedMSBuildEditorConfig.editorconfig
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.AssemblyInfoInputs.cache
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.AssemblyInfo.cs
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.csproj.CoreCompileInputs.cache
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.dll
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\refint\LeltarRendszer.dll
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.pdb
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.genruntimeconfig.cache
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\ref\LeltarRendszer.dll
