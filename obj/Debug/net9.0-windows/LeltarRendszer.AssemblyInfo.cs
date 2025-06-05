@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeltarRendszer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb4de7dcb5368c3c9f592a8ee4a688e526d36eec")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeltarRendszer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeltarRendszer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

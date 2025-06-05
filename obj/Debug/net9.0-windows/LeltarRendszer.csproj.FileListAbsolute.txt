@@ -12,3 +12,4 @@ D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\refint\LeltarRendszer.dll
 D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.pdb
 D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.genruntimeconfig.cache
 D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\ref\LeltarRendszer.dll
+D:\bot-ezrpc\!C#\leltar\obj\Debug\net9.0-windows\LeltarRendszer.sourcelink.json

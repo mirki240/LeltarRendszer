@@ -1,0 +1,9 @@
+2025. 06. 05. 15:48:59: admin bejelentkezett
+2025. 06. 05. 15:49:08: admin hozzáadta: füles
+2025. 06. 05. 15:49:12: admin hozzáadta: sad
+2025. 06. 05. 15:49:14: admin hozzáadta: asdasd
+2025. 06. 05. 15:49:17: admin törölte: asdasd
+2025. 06. 05. 15:49:31: admin hozzáadta: asd
+2025. 06. 05. 15:49:34: admin hozzáadta: asd
+2025. 06. 05. 15:49:37: admin hozzáadta: asd
+2025. 06. 05. 15:49:40: admin törölte: asd
